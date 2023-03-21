@@ -12,3 +12,6 @@ This app doesn't offer any graphical interface or complex features.
 
 Date: March 22, 2023
 '''
+
+options = ("rock", "paper", "scissors") # List of options for computer
+computer = random.choice(options # This will choose a random option from your list for the computer
