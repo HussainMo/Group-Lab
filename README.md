@@ -4,7 +4,6 @@
 **An algorithmic explanation of how the "Rock, Paper, Scissors" game works:**
 
 First step is to define our three possible options/input: "rock", "paper", and "scissors".
-
 We need to add a variable called "running" and set it to True to ensure that the game keeps running until the user decides otherwise.
 
 We need to add a while loop and set "running" as the condition, so the game runs until the user chooses to quit.
