@@ -1,7 +1,7 @@
 ## Rock, Paper, Scissors Game
 
 ### Algorithmic Standpoint
-An algorithmic explanation of how the "Rock, Paper, Scissors" game works:
+** An algorithmic explanation of how the "Rock, Paper, Scissors" game works:
 
 ● First step is to define our three possible options/input: "rock", "paper", and "scissors".
 
@@ -16,11 +16,11 @@ An algorithmic explanation of how the "Rock, Paper, Scissors" game works:
 ● Once the player has entered a valid option, compare their choice and the computer's (random) choice.
 
 ● Then we use conditional statements to compare the player's and the computer's choice to find the winner according to:
-	If both the player and computer make the same choice, it is a tie.
-	If the player chooses "rock" and the computer chooses "scissors", the player wins.
-	If the player chooses "paper" and the computer chooses "rock", the player wins.
-	If the player chooses "scissors" and the computer chooses "paper", the player wins.
-	Otherwise, the computer wins.
+-	If both the player and computer make the same choice, it is a tie.
+-	If the player chooses "rock" and the computer chooses "scissors", the player wins.
+-	If the player chooses "paper" and the computer chooses "rock", the player wins.
+-	If the player chooses "scissors" and the computer chooses "paper", the player wins.
+-	Otherwise, the computer wins.
 
 ● After that a message will be shown and indicating the result ("You Win!" or "Loser HaHa!").
 
