@@ -1,7 +1,7 @@
 ## Rock, Paper, Scissors Game
 
 ### Algorithmic Standpoint
-### An algorithmic explanation of how the "Rock, Paper, Scissors" game works:
+An algorithmic explanation of how the "Rock, Paper, Scissors" game works:
 
 ● First step is to define our three possible options/input: "rock", "paper", and "scissors".
 ● We need to add a variable called "running" and set it to True to ensure that the game keeps running until the user decides otherwise.
