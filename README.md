@@ -38,10 +38,13 @@ We are a group of two. Hossein is responsible for app developing and Ariyan is a
 
 ### Game Flowchart
 
+</br>
+
+![R_P_S](http://nouvinmedia.com/wp-content/uploads/2023/03/Flowchart.png)
+
+</br>
+
 <div align="center">
  Rock, Paper, Scissors Game Flowchart
 </div>
 
-![R_P_S](http://nouvinmedia.com/wp-content/uploads/2023/03/Flowchart.png)
-</br>
-</br>
